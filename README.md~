@@ -10,8 +10,6 @@ The question is whethere we  discard C-Tcl/Tk version or incorporate the new dev
 in the existing code?
 
 
-## What about validation and make a nice reference page with papers, Msc- and PhD thesis?
-
 
 ## How to work with this file? 
 
